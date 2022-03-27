@@ -1,3 +1,8 @@
+body {
+  font-family: Verdana;
+  background-color: darkcyan;
+}
+
 img {
   width: 220px;
   height: 275px;
@@ -5,8 +10,8 @@ img {
   float: left;
 }
 
-.sidebar {
-  float: left;
+ul.list {
+  line-height: 1;
 }
 
 .box {
