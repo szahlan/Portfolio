@@ -8,7 +8,7 @@ By **Sana Zahlan**
 
 ## Description 
 
-This page includes an about me section with some information about myself and background. It has a list of my prjects that will continue to grow as I complete new ones. 
+This page includes an about me section with some information about myself and background. It has a list of my projects that will continue to grow as I complete new ones. 
 Finally, it has a list of my hobbies/interests.
 
 ## Setup & Installtion 
